@@ -1,0 +1,11 @@
+body,html{
+	margin: 0 ;
+	padding: 0;
+	height: auto;
+    background: linear-gradient(#808080, #202020);
+}
+.cen{
+    width: 60%;
+    background-color: seashell;
+    float: left;
+}
